@@ -1,4 +1,8 @@
-### Hi there 👋
+### To-do
+
+- Move more code to GitHub from the Doorkeeper project
+- Update phpphotogallery, and create a Wordpress plugin
+- Make a queue system for the file-handler to prevent rare deadlocks
 
 <!--
 **jacobseated/jacobseated** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
