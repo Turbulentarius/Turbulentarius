@@ -1,22 +1,11 @@
-  Read my articles on https://beamtic.com/
+  Console dweller
 
-### To-do
+### My articles
 
-- Move more code to GitHub from the Doorkeeper project
-- Update phpphotogallery, and create a Wordpress plugin
-- Make a queue system for the file-handler to prevent rare deadlocks
+[PHP](https://beamtic.com/php-tutorials) | [bash](https://beamtic.com/tag/bash-tutorials)
+[Wordpress](https://beamtic.com/tag/wordpress-tutorials) 
 
-<!--
-**jacobseated/jacobseated** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Tools
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Unix time](https://beamtic.com/current-unix-timestamp) | [String to md5](https://beamtic.com/string-to-md5)
+[User-agent list](https://beamtic.com/user-agents/) | [View your User-agent string](https://beamtic.com/view-user-agent-tool)
