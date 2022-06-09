@@ -6,7 +6,7 @@
 
 [`JavaScript 📚`](https://beamtic.com/javascript-tutorials) | [`Nextcloud 📚`](https://beamtic.com/tag/nextcloud)
 
-[`Apache HTTP Server 📚](https://beamtic.com/tag/apache) | [`MySQL 📚`](https://beamtic.com/tag/mysql)
+[`Apache HTTP Server 📚`](https://beamtic.com/tag/apache) | [`MySQL 📚`](https://beamtic.com/tag/mysql)
 
 ### Tools
 
