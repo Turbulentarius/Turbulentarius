@@ -2,13 +2,13 @@
 
 ### My articles
 
-[`PHP 📚`](https://beamtic.com/php-tutorials) | [`bash 📚`](https://beamtic.com/tag/bash-tutorials) | [`Wordpress 📚`](https://beamtic.com/tag/wordpress-tutorials)
+[`PHP 📚`](https://beamtic.com/php-tutorials) | [`bash 📚`](https://beamtic.com/tag/bash-tutorials) | [`JavaScript 📚`](https://beamtic.com/javascript-tutorials)
 
-[`JavaScript 📚`](https://beamtic.com/javascript-tutorials) | [`Nextcloud 📚`](https://beamtic.com/tag/nextcloud)
+[`Wordpress 📚`](https://beamtic.com/tag/wordpress-tutorials)| [`Nextcloud 📚`](https://beamtic.com/tag/nextcloud)
 
 [`Apache HTTP Server 📚`](https://beamtic.com/tag/apache) | [`MySQL 📚`](https://beamtic.com/tag/mysql)
 
-### Tools
+### My Web Tools
 
 [`Unix time 🔨`](https://beamtic.com/current-unix-timestamp) | [`String to md5 🔨`](https://beamtic.com/string-to-md5)
 
