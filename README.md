@@ -2,9 +2,9 @@
 
 ### My articles
 
-[`PHP 📚`](https://beamtic.com/php-tutorials) | [`bash 📚`](https://beamtic.com/tag/bash-tutorials)
+[`PHP 📚`](https://beamtic.com/php-tutorials) | [`bash 📚`](https://beamtic.com/tag/bash-tutorials) | [`Wordpress 📚`](https://beamtic.com/tag/wordpress-tutorials)
 
-[`Wordpress 📚`](https://beamtic.com/tag/wordpress-tutorials) 
+[`JavaScript 📚`](https://beamtic.com/javascript-tutorials) | [`Nextcloud 📚`](https://beamtic.com/tag/nextcloud) 
 
 ### Tools
 
