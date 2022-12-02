@@ -4,7 +4,7 @@
 
 [`PHP 📚`](https://beamtic.com/php-tutorials) | [`bash 📚`](https://beamtic.com/tag/bash-tutorials) | [`JavaScript 📚`](https://beamtic.com/javascript-tutorials)
 
-[`Wordpress 📚`](https://beamtic.com/tag/wordpress-tutorials) | [`Nextcloud 📚`](https://beamtic.com/tag/nextcloud)
+[`Wordpress 📚`](https://beamtic.com/tag/wordpress-tutorials) | [`Nextcloud 📚`](https://beamtic.com/tag/nextcloud) | [`Shopware 📚`](https://beamtic.com/tag/shopware)
 
 [`Apache HTTP Server 📚`](https://beamtic.com/tag/apache) | [`MySQL 📚`](https://beamtic.com/tag/mysql)
 
