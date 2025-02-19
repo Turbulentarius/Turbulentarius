@@ -1,3 +1,9 @@
+My name is Jacob Kristensen, and I am a web developer based in Denmark.
+
+I am currently pursuing a Bachelor's degree in Web Development at Zealand, learning React and refining my existing skills.
+
+Check out my Portfolio for more: https://turbulentarius.com/
+
 # My Articles
 
 [`PHP 📚`](https://beamtic.com/php-tutorials) | [`bash 📚`](https://beamtic.com/tag/bash-tutorials) | [`JavaScript 📚`](https://beamtic.com/javascript-tutorials)
