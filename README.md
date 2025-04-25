@@ -4,6 +4,12 @@ I am currently pursuing a Bachelor's degree in Web Development at Zealand, learn
 
 Check out my Portfolio for more: https://turbulentarius.com/
 
+# More pins  (because of pinned repository limit)
+
+## Current work:
+- https://github.com/Turbulentarius/laravel-docker-env
+- https://github.com/Turbulentarius/laravel-backend-webshop
+
 # My Articles
 
 [`PHP 📚`](https://beamtic.com/php-tutorials) | [`bash 📚`](https://beamtic.com/tag/bash-tutorials) | [`JavaScript 📚`](https://beamtic.com/javascript-tutorials)
