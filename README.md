@@ -4,9 +4,8 @@ I am currently pursuing a Bachelor's degree in Web Development at Zealand, learn
 
 Check out my Portfolio for more: https://turbulentarius.com/
 
-# More pins  (because of pinned repository limit)
-
-## Latest work — interdisciplinary Zealand project:
+---
+# Latest work — interdisciplinary Zealand project:
 Our interdisciplinary Zealand project combines what we've learned in Laravel, WordPress, Docker, and React.
 - https://github.com/Turbulentarius/production-docker-wordpress-laravel — Backend container environment used for both Wordpress and Laravel (with minor adjustments)
 - https://github.com/Turbulentarius/laravel-docker-env — My local dev environment for laravel
