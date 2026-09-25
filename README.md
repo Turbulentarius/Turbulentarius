@@ -5,6 +5,7 @@ I am currently pursuing a Bachelor's degree in Web Development at Zealand, learn
 Check out my Portfolio for more: https://turbulentarius.com/
 
 ---
+Old work: https://github.com/Turbulentarius/Turbulentarius/blob/master/old-work.md 
 
 # My Articles
 
