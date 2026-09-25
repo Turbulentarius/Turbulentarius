@@ -1,12 +1,8 @@
 # Jacob Kristensen
 
-<p align="center">
+<img src="t1.png" alt="Jacob Kristensen" width="200" align="right">
 
- <img src="t1.png" alt="Jacob Kristensen" width="200">
-
-</p>
-
-**Education:** A *Bachelor's degree in Web Development* from Zealand, and an *AP Degree in Multimedia Design* from EK (Previously known as KEA)
+**Education:** A *Bachelor's degree in Web Development* from Zealand and an *AP Degree in Multimedia Design* from EK, formerly known as KEA.
 
 **Years of experience:** Years alone are a terrible measure of competence. 😉  
 I started coding as a kid. You do the math.
