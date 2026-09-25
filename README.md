@@ -6,7 +6,7 @@
 
 </p>
 
-**Education:** Bachelor's degree in Web Development from Zealand
+**Education:** A *Bachelor's degree in Web Development* from Zealand, and an *AP Degree in Multimedia Design* from EK (Previously known as KEA)
 
 **Years of experience:** Years alone are a terrible measure of competence. 😉  
 I started coding as a kid. You do the math.
