@@ -1,5 +1,7 @@
-![Turbulentarius](assets/turbulentarius.svg)
 
+<p align="center">
+  <img src="assets/turbulentarius.svg" alt="Turbulentarius" width="65%">
+</p>
 
 <img src="t1.png" alt="Jacob Kristensen" width="200" align="right">
 
