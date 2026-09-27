@@ -1,4 +1,5 @@
-# Jacob Kristensen
+![Turbulentarius](assets/turbulentarius.svg)
+
 
 <img src="t1.png" alt="Jacob Kristensen" width="200" align="right">
 

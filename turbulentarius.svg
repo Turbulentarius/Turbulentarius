@@ -1,0 +1,188 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="260" viewBox="0 0 960 260">
+  <defs>
+    <filter id="fluidField" x="-20%" y="-60%" width="140%" height="220%">
+      <feTurbulence
+        type="fractalNoise"
+        baseFrequency="0.004 0.018"
+        numOctaves="3"
+        seed="17"
+        result="noise">
+        <animate
+          attributeName="baseFrequency"
+          values="0.004 0.018;0.007 0.024;0.005 0.02;0.004 0.018"
+          dur="10s"
+          repeatCount="indefinite"/>
+      </feTurbulence>
+
+      <feDisplacementMap
+        in="SourceGraphic"
+        in2="noise"
+        scale="22"
+        xChannelSelector="R"
+        yChannelSelector="G">
+        <animate
+          attributeName="scale"
+          values="14;26;18;22;14"
+          dur="8s"
+          repeatCount="indefinite"/>
+      </feDisplacementMap>
+
+      <feGaussianBlur stdDeviation="1.2"/>
+    </filter>
+
+    <filter id="mist" x="-30%" y="-80%" width="160%" height="260%">
+      <feTurbulence
+        type="fractalNoise"
+        baseFrequency="0.008 0.03"
+        numOctaves="2"
+        seed="29">
+        <animate
+          attributeName="baseFrequency"
+          values="0.008 0.03;0.012 0.045;0.009 0.034;0.008 0.03"
+          dur="12s"
+          repeatCount="indefinite"/>
+      </feTurbulence>
+
+      <feGaussianBlur stdDeviation="9"/>
+    </filter>
+
+    <filter id="textGlow" x="-30%" y="-80%" width="160%" height="260%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="7" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="colorGlow" x="-30%" y="-100%" width="160%" height="300%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <linearGradient id="flow1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00fff0"/>
+      <stop offset="30%" stop-color="#00c8ff"/>
+      <stop offset="65%" stop-color="#4f7dff"/>
+      <stop offset="100%" stop-color="#b14cff"/>
+    </linearGradient>
+
+    <linearGradient id="flow2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00ff9d"/>
+      <stop offset="40%" stop-color="#00e1ff"/>
+      <stop offset="75%" stop-color="#6864ff"/>
+      <stop offset="100%" stop-color="#e052ff"/>
+    </linearGradient>
+
+    <linearGradient id="flow3" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#b9ffff"/>
+      <stop offset="45%" stop-color="#26d9ff"/>
+      <stop offset="100%" stop-color="#7768ff"/>
+    </linearGradient>
+
+    <radialGradient id="coreGlow">
+      <stop offset="0%" stop-color="#00cfff" stop-opacity="0.26"/>
+      <stop offset="45%" stop-color="#685cff" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
+
+    <clipPath id="capsuleClip">
+      <rect x="70" y="45" width="820" height="170" rx="85"/>
+    </clipPath>
+  </defs>
+
+  <rect
+    x="70"
+    y="45"
+    width="820"
+    height="170"
+    rx="85"
+    fill="#05070b"/>
+
+  <g clip-path="url(#capsuleClip)">
+    <ellipse
+      cx="480"
+      cy="130"
+      rx="335"
+      ry="70"
+      fill="url(#coreGlow)"/>
+
+    <ellipse
+      cx="480"
+      cy="130"
+      rx="300"
+      ry="55"
+      fill="#00c8ff"
+      opacity="0.13"
+      filter="url(#mist)"/>
+
+    <g filter="url(#fluidField)">
+      <path
+        d="M-40 112
+           C80 72, 180 160, 290 122
+           S500 72, 620 118
+           S850 154, 1000 106"
+        fill="none"
+        stroke="url(#flow1)"
+        stroke-width="32"
+        stroke-linecap="round"
+        opacity="0.64"
+        filter="url(#colorGlow)"/>
+
+      <path
+        d="M-60 145
+           C90 176, 210 88, 340 132
+           S560 176, 690 132
+           S890 92, 1020 142"
+        fill="none"
+        stroke="url(#flow2)"
+        stroke-width="23"
+        stroke-linecap="round"
+        opacity="0.5"
+        filter="url(#colorGlow)"/>
+
+      <path
+        d="M-30 92
+           C110 126, 220 82, 340 100
+           S570 132, 700 102
+           S900 80, 1010 110"
+        fill="none"
+        stroke="url(#flow3)"
+        stroke-width="13"
+        stroke-linecap="round"
+        opacity="0.52"
+        filter="url(#colorGlow)"/>
+    </g>
+
+    <ellipse
+      cx="480"
+      cy="130"
+      rx="345"
+      ry="76"
+      fill="none"
+      stroke="#52eaff"
+      stroke-width="1.5"
+      opacity="0.24">
+      <animate
+        attributeName="ry"
+        values="72;80;74;76;72"
+        dur="7s"
+        repeatCount="indefinite"/>
+    </ellipse>
+  </g>
+
+  <text
+    x="480"
+    y="145"
+    text-anchor="middle"
+    font-family="Verdana, Arial, sans-serif"
+    font-size="58"
+    font-weight="700"
+    letter-spacing="2"
+    fill="#ffffff"
+    filter="url(#textGlow)">
+    TURBULENTARIUS
+  </text>
+</svg>
