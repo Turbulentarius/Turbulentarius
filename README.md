@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="turbulentarius.svg" alt="Turbulentarius" width="65%">
+  <img src="turbulentarius.svg" alt="Turbulentarius" width="85%">
 </p>
 
 <img src="t1.png" alt="Jacob Kristensen" width="200" align="right">
